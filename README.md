@@ -16,7 +16,7 @@ To Do:
 
   Write quiz and problems to Documents directory as JSON to persist the state of the student's quiz
   
-    URLSession and Codeable protocols for Quiz and Problem structs and classes
+  URLSession and Codeable protocols for Quiz and Problem structs and classes
     
-    Ensure accessibility for enlarged fonts via UIFont Metrics
+  Ensure accessibility for enlarged fonts via UIFont Metrics
   
